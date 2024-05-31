@@ -1,3 +1,3 @@
 # intuji-devops-internship-challenge
 <br>
-Install Docker 
+Bash Script for Installing Docker 
